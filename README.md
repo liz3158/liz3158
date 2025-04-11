@@ -45,13 +45,6 @@ Here’s a cool cat coding: 🐱💻
 
 ---
 
-## 🧩 Fun Stats
-
-- **Longest streak**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
-- **Contributions in the past year**: ![GitHub Contributions](https://github-contributions-api.now.sh/your-github-username)
-
----
-
 ## 📣 Featured Blog Posts
 
 - [How AI is transforming education](https://your-blog-link.com)
