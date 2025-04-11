@@ -31,8 +31,9 @@ I'm a **software engineering student**, passionate about building impactful tech
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=liz3158&label=Profile%20Views&color=12&icon=9" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/liz3158/count.svg" alt="Visitor Count" />
 </p>
+
 
 
 
