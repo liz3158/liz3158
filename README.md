@@ -7,7 +7,7 @@
   <a href="mailto:lizwong2001@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Email Icon"/>
   </a>
-  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+  <a href= "https://www.youtube.com/@planetpudding3925"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 
 <!-- Stats -->
