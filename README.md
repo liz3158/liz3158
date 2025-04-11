@@ -1,6 +1,6 @@
 # Hello, I'm Liz 👋
 
-Welcome to my GitHub! I'm a passionate developer, **AI enthusiast**, and like to learn new things. Here you’ll find my latest projects, research, and contributions.
+Welcome to my GitHub! I'm a passionate developer, and like to learn new things. Here you’ll find my latest projects, research, and contributions.
 
 ---
 
