@@ -24,8 +24,15 @@ I'm a **software engineering student**, passionate about building impactful tech
 
 ### ✍️ Random Dev Quote
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-  ---
-  [![](https://visitcount.itsvg.in/api?id=liz3158&icon=9&color=12)](https://visitcount.itsvg.in)  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=liz3158&label=Profile%20Views&color=12&icon=9" alt="Visitor Count" />
+</p>
+
 
 
