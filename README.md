@@ -2,7 +2,13 @@
 ![Header](./your-header-image-name.png)
 I'm a **Degree student** which study in **UTM**, passionate about building impactful technologies. I'm currently exploring **AI-driven solutions for education** and **data-driven insights**.<br><br>🔭 Currently working on: **AI-Powered Virtual Teaching Assistant**<br>🌱 Learning: **Deep Learning**, **Natural Language Processing**<br>👯 Open to collaborations on: **Open-Source Projects**<br>🤖 Fun fact: I’ve built a chatbot that helps students with coding!
 
-
+<!-- Stats -->
+<div align="center">
+  <a href="https://github.com/kaizoku-oh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaizoku-oh&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizoku-oh&layout=compact&langs_count=5"/>
+</div>
+    
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Liz Wong Wan Qi](https://www.linkedin.com/in/liz-wong-wan-qi-9a1122307/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizwong2001@gmail.com) 
 
