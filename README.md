@@ -1,6 +1,12 @@
-# 💫 Hi, I'm Liz
 
-I'm a **Degree student** which study in **UTM**, passionate about building impactful technologies. I'm currently exploring **AI-driven solutions for education** and **data-driven insights**.<br><br>🔭 Currently working on: **AI-Powered Virtual Teaching Assistant**<br>🌱 Learning: **Deep Learning**, **Natural Language Processing**<br>👯 Open to collaborations on: **Open-Source Projects**<br>🤖 Fun fact: I’ve built a chatbot that helps students with coding!
+<h3 align="center">Connect with me</h3>
+<!-- Social media icons -->
+<p align="center">
+  <a href= "[https://www.linkedin.com/in/bayrem-gharssellaoui/](https://linkedin.com/in/Liz Wong Wan Qi)"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
+  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+</p>
 
 <!-- Stats -->
 <div align="center">
@@ -8,6 +14,8 @@ I'm a **Degree student** which study in **UTM**, passionate about building impac
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liz3158&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liz3158&layout=compact&langs_count=5"/>
 </div>
+
+I'm a **software engineering student**, passionate about building impactful technologies. I'm currently exploring **AI-driven solutions for education** and **data-driven insights**.<br><br>🔭 Currently working on: **AI-Powered Virtual Teaching Assistant**<br>🌱 Learning: **Deep Learning**, **Natural Language Processing**<br>👯 Open to collaborations on: **Open-Source Projects**<br>🤖 Fun fact: I’ve built a chatbot that helps students with coding!
     
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Liz Wong Wan Qi](https://www.linkedin.com/in/liz-wong-wan-qi-9a1122307/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizwong2001@gmail.com) 
