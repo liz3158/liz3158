@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Liz
-![Header](./your-header-image-name.png)
+
 I'm a **Degree student** which study in **UTM**, passionate about building impactful technologies. I'm currently exploring **AI-driven solutions for education** and **data-driven insights**.<br><br>🔭 Currently working on: **AI-Powered Virtual Teaching Assistant**<br>🌱 Learning: **Deep Learning**, **Natural Language Processing**<br>👯 Open to collaborations on: **Open-Source Projects**<br>🤖 Fun fact: I’ve built a chatbot that helps students with coding!
 
 <!-- Stats -->
