@@ -12,7 +12,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <a href="https://github.com/kaizoku-oh">
+  <a href="https://github.com/liz3158">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liz3158&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liz3158&layout=compact&langs_count=5"/>
 </div>
